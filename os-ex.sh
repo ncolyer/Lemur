@@ -59,4 +59,4 @@ done
 
 
 $(. ~/.bashrc) 
-printf "\r\n\r\n\r\nDone. Restart Terminal.app or source bashrc to start using aliasses.\r\n\r\n"
+printf "\r\n\r\n\r\nDone. Restart Terminal.app or source bashrc to start using aliases.\r\n\r\n"
